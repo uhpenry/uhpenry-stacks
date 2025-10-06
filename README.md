@@ -1,7 +1,7 @@
 # Uhpenry Stacks
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/uhpenry-stacks?style=social)](https://github.com/yourusername/uhpenry-stacks/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/uhpenry-stacks?style=social)](https://github.com/yourusername/uhpenry-stacks/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/uhpenry/uhpenry-stacks?style=social)](https://github.com/yourusername/uhpenry-stacks/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/uhpenry/uhpenry-stacks?style=social)](https://github.com/yourusername/uhpenry-stacks/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An open-source collection of recommended tech stacks for various development domains. This repo powers the stack suggestions in [Uhpenry](https://uhpenry.com), the platform that lets developers easily monetize their code, APIs, and projects—like Shopify but for devs.
